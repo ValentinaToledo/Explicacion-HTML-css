@@ -28,4 +28,9 @@ p{
     font-size: xx-large;
     font-style: oblique;
     font-weight: initial;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.imagengrande{
+    height: 500px;
 }

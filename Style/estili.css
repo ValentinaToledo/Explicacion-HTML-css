@@ -44,3 +44,14 @@ p{
     padding: 10px;
 }
 
+.contenedorDivs{
+    border: 2px solid green;
+    display: grid;
+    grid-column: auto;
+    grid-template-columns: 150px 150px 150px;
+}
+
+.divtest{
+    border: 1px solid orange;
+}
+

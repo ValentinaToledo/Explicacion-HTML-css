@@ -17,3 +17,15 @@ p{
 .colortitulos{
     background-color:blue;
 }
+
+.letra{
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+.letra2{
+    font-size: xx-large;
+    font-style: oblique;
+    font-weight: initial;
+}

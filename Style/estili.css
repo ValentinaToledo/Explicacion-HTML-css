@@ -62,8 +62,13 @@ p{
     grid-column: auto;
     grid-template-rows: 10px 50px;
     grid-template-columns: 150px 150px 150px;
+    margin: 30px;
 }
 
+.contenedorDivsflex{
+    border: 2px solid green;
+    display: flex;    
+}
 
 
 
